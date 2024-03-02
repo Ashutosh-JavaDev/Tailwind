@@ -1,0 +1,23 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "Hey, welcome to my profile, where you will find multiple of Projects, which was created by the help of Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwind -i ./src/input.css -o ./public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashutosh-JavaDev/Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashutosh-JavaDev/Tailwind/issues"
+  },
+  "homepage": "https://github.com/Ashutosh-JavaDev/Tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
